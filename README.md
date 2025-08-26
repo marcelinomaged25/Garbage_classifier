@@ -23,14 +23,7 @@ Garbage_sorter/
 │── README.md # Project documentation
 
 
----
 
 
-License
-This project is licensed under the MIT License.
-Feel free to use, modify, and distribute with attribution.
 
-Author
-Youssef Ahmed Mohammed
-Email: yousssefa7med@gmail.com
-GitHub: Joex-stack
+
